@@ -11,8 +11,8 @@ import org.jmock.Mockery;
 import org.junit.*; 
 
 public class GetCumulativePercentagesTest {
-    Mockery mock1;
-    Mockery mock2;
+    // Mockery mock1;
+    // Mockery mock2;
     KeyedValues positiveValues;
     KeyedValues negativeValues;
 
